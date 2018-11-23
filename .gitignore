@@ -26,3 +26,4 @@ hs_err_pid*
 target/classes/application.properties
 target/generated-sources/
 target/generated-test-sources/
+.mvn/wrapper/maven-wrapper.properties
